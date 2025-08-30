@@ -1,0 +1,11 @@
+# 一時ファイル
+*.log
+*.tmp
+
+# ビルド結果
+/dist
+/build
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
